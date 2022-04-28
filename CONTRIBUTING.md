@@ -1,0 +1,3 @@
+# CONTRIBUTORS
+
+1. map528
